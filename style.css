@@ -1,0 +1,13 @@
+.heading{
+    width:100%;
+    text-align: center;
+}
+
+#instruct_btn{
+    float:right;
+}
+
+
+#game_btn, #status{
+    font-size: 22px;
+}
